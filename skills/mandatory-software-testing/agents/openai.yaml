@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mandatory Software Testing"
+  short_description: "Evidence-based QA checks and release-readiness reporting"
+  default_prompt: "Use $mandatory-software-testing to select and run the authorized tests for this software change, preserve execution evidence, and report defects, status, and residual risks."
