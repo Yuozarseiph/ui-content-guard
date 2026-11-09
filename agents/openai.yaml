@@ -1,0 +1,5 @@
+# Optional host-specific discovery metadata. The skill itself is host-agnostic.
+interface:
+  display_name: "UI Content Guard"
+  short_description: "Keep interface copy clear, relevant, and safe"
+  default_prompt: "Use $ui-content-guard to review and improve this interface without leaking implementation details or removing essential user guidance."

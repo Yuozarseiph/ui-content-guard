@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.log
+*.tmp
+*.swp
+
+# Keep local-only validation and example material out of the repository
+scripts/
+tests/
+examples/
